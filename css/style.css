@@ -97,11 +97,9 @@ body {
     font-size: 14px !important;
 }
 
-/* .btn-outline-primary:hover {
-    background-color: #ffc107 !important;
-    color: #fff !important;
-    border-color: #ffc107 !important;
-} */
+.logo {
+    height: 70px !important;
+}
 
 .app-version {
     font-size: 11px !important;
