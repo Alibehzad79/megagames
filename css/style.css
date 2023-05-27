@@ -115,6 +115,10 @@ input,
 textarea {
     outline: none;
 }
+
+.search-img {
+    height: 250px !important;
+}
 @media screen and (width < 400px) {
     .dropdown-item {
         width: 50%;
